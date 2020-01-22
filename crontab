@@ -1,0 +1,1 @@
+00 12 * * 1-5        python2 /home/tux/Projets/timesheet/auto-fill-openerp-obj.py
